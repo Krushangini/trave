@@ -1,0 +1,73 @@
+img{
+    width:100%;
+    height:658px;
+}
+h1{
+    position: absolute;
+    left: 540px;
+    background: none;
+}
+form{
+    position: absolute;
+    right: 500px;
+    top:200px;
+    text-align: center;
+    background:none;
+}
+.bc{
+    margin-left: 20px;
+    margin-bottom: 40px;
+    width: 250px;
+    height:40px;
+    border-radius: 2cm;
+    background: transparent;
+    box-shadow: 1px 1px 2px 2px rgb(212, 212, 223);
+    border: solid black 1px;
+}
+h4{
+    position: absolute;
+    bottom: -130px;
+    margin-left: 139px;
+    color: rgb(0, 0, 0);
+}
+.sign{
+    color:aqua;
+    margin-bottom: 105px;
+}
+.bc:hover{
+    background: transparent;
+    box-shadow: 2px 2px 3px 3px rgb(212, 212, 223);
+}
+.lab{
+    background:none;
+    font-size: 0.8cm;
+    color: white;
+}
+.bt{
+    margin-top: 25px;
+    position: absolute;
+    right:70px;
+    width: 200px;
+    height: 50px;
+    border-radius: 4cm;
+    background-color: #d9d9d9;
+}
+
+.sub{
+    color: black;
+    font-size: large;
+    font-style: bold;
+    font-size: 0.75cm;
+    text-decoration: none;
+    background: transparent;
+}
+
+button:hover{
+    background-color: rgb(5, 122, 122);
+}
+
+h4{
+    font-size: 0.54cm;
+    width:340px;
+    margin-left: 99px;;
+}

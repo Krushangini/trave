@@ -1,0 +1,54 @@
+img{
+    width:100%;
+    height:658px;
+}
+h1{
+    position: absolute;
+    left: 540px;
+    background: none;
+    font-family: bad-family;
+}
+form{
+    position: absolute;
+    right: 500px;
+    top:200px;
+    text-align: center;
+    background:none;
+}
+input{
+    margin-left: 30px;
+    margin-bottom: 40px;
+    width: 350px;
+    height:40px;
+    border-radius: 2cm;
+    font-size: 0.5cm;
+    background-color: transparent;
+    color:white;
+    border: solid black 1px;
+}
+input:hover{
+    box-shadow: 2px 2px 5px 5px rgb(196, 186, 186);
+}
+.lab{
+    background:none;
+    font-size: 0.8cm;
+    background:transparent;
+}
+
+
+
+.sub{
+    color: black;
+    font-size: large;
+    font-style: bold;
+    font-size: 0.75cm;
+    text-decoration: none;
+    background: transparent;
+}
+
+.but{
+    position: absolute;
+    top:170px;
+    margin-left:-230px;
+    background-color: #d9d9d9;
+}

@@ -1,0 +1,36 @@
+.grid-contain {
+    position: absolute;
+    top:90px;
+    left:250px;
+    display: grid;
+    column-gap: 50px;
+    row-gap: 50px;
+    width:870px;
+    grid-template-columns: auto auto auto;
+    background-color: #d9d9d9;
+    padding: 10px;
+    border-radius: 1cm;
+  }
+  h2{
+    margin-left: 500px;
+    text-align: center;
+    padding-left: 10px;
+    position: absolute;
+    width: 350px;
+    height: 40px;
+    top:13px;
+    background-color: #d9d9d9;
+    border:1px solid black;
+    border-radius: 1cm;
+  }
+  .grid-it img{
+    background-color:rgba(255, 255, 255, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    width:180px;
+    height: 140px;
+    font-size: 30px;
+    text-align: center;
+    justify-content: center;
+    margin-left: 30px;
+    border-radius: 1cm;
+  }
