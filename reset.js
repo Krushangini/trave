@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 import './reset.css';
 import img from './assets/back.jpg';
 
-const Login=()=>{
+const Reset=()=>{
     return(
         <div>
             <h1>Reset your Password</h1>
@@ -17,4 +17,4 @@ const Login=()=>{
         </div>
     )
 }
-export default Login;
+export default Reset;
